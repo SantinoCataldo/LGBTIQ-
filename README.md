@@ -1,2 +1,2 @@
-Pagina sobre LGBTIQ+ 
+Pagina sobre LGBTIQ+ <br>
 Propuesta por mi profesor
