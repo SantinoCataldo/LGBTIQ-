@@ -1,3 +1,2 @@
-https://lgbtiqmas.vercel.app/
-
-Por si queres visitar la pagina
+Pagina sobre LGBTIQ+ 
+Propuesta por mi profesor
